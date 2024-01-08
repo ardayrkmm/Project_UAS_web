@@ -1,0 +1,19 @@
+.container-home {
+    padding: 30px;
+    background-color: aqua;
+}
+
+.card {
+    width: 1000px;
+    height: 220px;
+    background-color: darkblue;
+}
+
+body {
+    background-color: blue;
+}
+
+h1 {
+    font-size: 30px;
+    color: black;
+}
